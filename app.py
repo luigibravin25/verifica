@@ -7,9 +7,3 @@ with open("file.txt", "r") as f:
 
     l = r.splitlines()
     print("numero delle linee: ", len(l)) 
-    
-    p = r.split()
-    print("conta parole: ",len(p))
-
-    
-
